@@ -13,7 +13,7 @@ metadata:
 spec:
   description: Contains all production applications.
   sourceRepos:
-    - https://github.com/rceraline/devops-argocd.git
+    - git@github.com:lightspeed001/devops-argocd.git
   destinations:
     - namespace: production
       server: https://kubernetes.default.svc

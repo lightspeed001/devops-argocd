@@ -10,5 +10,5 @@ spec:
       containers:
         - name: app-01
           env:
-            - name: ASPNETCORE_ENVIRONMENT
+            - name: JDK11_ENVIRONMENT
               value: staging

@@ -10,7 +10,7 @@ spec:
 
   # Source of the application manifests
   source:
-    repoURL: https://github.com/rceraline/devops-argocd.git
+    repoURL: git@github.com:lightspeed001/devops-argocd.git
     targetRevision: HEAD
     path: apps
 

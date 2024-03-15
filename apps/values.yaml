@@ -2,5 +2,5 @@ spec:
   destination:
     server: https://kubernetes.default.svc
   source:
-    repoURL: https://github.com/rceraline/devops-argocd.git
+    repoURL: git@github.com:lightspeed001/firebase-spring-boot-crud.git
     targetRevision: HEAD
